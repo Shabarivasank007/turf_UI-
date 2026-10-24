@@ -1,0 +1,6 @@
+{
+  "name": "Lunar Oasis - Modern Architectural Living",
+  "description": "Discover extraordinary properties available for purchase or rent. Modern organic biomorphic architecture, panoramic desert views, and luxury curated listings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
